@@ -1,3 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Tangerine:400,700);
+@import url(http://fonts.googleapis.com/css?family=Abril+Fatface);
+
+
 .clear {
 	clear:both;
 }
@@ -33,9 +37,13 @@
 }
 
 .links a {
+	font-family: 'Abril Fatface';
+	font-weight:bold;
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #DB7D30
+
+	
 }
 
 header {
@@ -45,3 +53,17 @@ header {
 hr {
 	clear:both;
 }
+
+h1 {
+  font-family: 'Tangerine';
+  font-weight:bold;
+  font-size:48px;
+}
+h2 {
+  font-family: 'Tangerine';
+  font-weight:bold;
+  font-size:48px
+}
+
+
+
